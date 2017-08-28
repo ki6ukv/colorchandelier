@@ -18,8 +18,8 @@
 // Set the broker server IP
 const byte server[] = { 192,168,1,5 };
 
-const char* ssid     = "This one";
-const char* password = "datlftp!";
+const char* ssid     = "ssid";
+const char* password = "password";
 
 void callback(char*, byte*, unsigned int); 
 
